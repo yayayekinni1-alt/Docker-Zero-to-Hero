@@ -1,4 +1,4 @@
-FROM ubuntu:22.04 AS build
+FROM ubuntu:latest AS build
 
 WORKDIR /app
 
